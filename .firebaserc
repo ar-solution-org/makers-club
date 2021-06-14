@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "makers-club-c93bd": {
+      "hosting": {
+        "makers-club": [
+          "makers-club-c93bd"
+        ]
+      }
+    }
+  }
+}
